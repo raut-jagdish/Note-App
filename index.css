@@ -42,7 +42,7 @@
     cursor: pointer;
 }
 
-.inputbox{
+.input-box{
     position: relative;
     width: 100%;
     max-width: 500px;
@@ -56,7 +56,7 @@
      
 }
 
-.inputbox img{
+.input-box img{
     width: 25px;
     position: absolute;
     right: 15px;
